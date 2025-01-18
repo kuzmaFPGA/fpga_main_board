@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pcbDAC")(type "KiCad")(uri "${KIPRJMOD}/Lib/pcbDAC.pretty")(options "")(descr ""))
+  (lib (name "PowerLibrary")(type "KiCad")(uri "/home/boot2qt/Development/Ferti/Hardware/b2qtdevice/MyWork/CANboard/PowerModule/PowerLibrary.pretty")(options "")(descr ""))
+  (lib (name "DPAK")(type "KiCad")(uri "/home/boot2qt/Development/Ferti/Hardware/b2qtdevice/MyWork/CANboard/PowerModule/DPAK.pretty")(options "")(descr ""))
+  (lib (name "Varistor")(type "KiCad")(uri "/home/boot2qt/Development/Ferti/Hardware/b2qtdevice/MyWork/CANboard/PowerModule/Varistor.pretty")(options "")(descr ""))
+  (lib (name "eec")(type "KiCad")(uri "/home/boot2qt/Development/Ferti/Hardware/b2qtdevice/MyWork/CANboard/PowerModule/Varistor/eec.pretty")(options "")(descr ""))
+  (lib (name "dimmer")(type "KiCad")(uri "/home/boot2qt/Switch/KeySwitchESP32/ESP2866_Dimmer/dimmer/dimmer.pretty")(options "")(descr ""))
+)
