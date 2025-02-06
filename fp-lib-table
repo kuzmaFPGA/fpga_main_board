@@ -6,4 +6,5 @@
   (lib (name "Varistor")(type "KiCad")(uri "/home/boot2qt/Development/Ferti/Hardware/b2qtdevice/MyWork/CANboard/PowerModule/Varistor.pretty")(options "")(descr ""))
   (lib (name "eec")(type "KiCad")(uri "/home/boot2qt/Development/Ferti/Hardware/b2qtdevice/MyWork/CANboard/PowerModule/Varistor/eec.pretty")(options "")(descr ""))
   (lib (name "dimmer")(type "KiCad")(uri "/home/boot2qt/Switch/KeySwitchESP32/ESP2866_Dimmer/dimmer/dimmer.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/fromAltium/Library.pretty")(options "")(descr ""))
 )

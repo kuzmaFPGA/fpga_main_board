@@ -3131,7 +3131,6 @@
 	)
 	(label "+12vInput"
 		(at 99.06 50.8 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)

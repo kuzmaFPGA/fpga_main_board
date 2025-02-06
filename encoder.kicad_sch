@@ -3739,7 +3739,6 @@
 	(hierarchical_label "~{B}"
 		(shape input)
 		(at 189.23 81.28 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3751,7 +3750,6 @@
 	(hierarchical_label "~{R}"
 		(shape input)
 		(at 189.23 127 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3763,7 +3761,6 @@
 	(hierarchical_label "0"
 		(shape input)
 		(at 194.31 158.75 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3775,7 +3772,6 @@
 	(hierarchical_label "R"
 		(shape input)
 		(at 189.23 138.43 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3787,7 +3783,6 @@
 	(hierarchical_label "~{A}"
 		(shape input)
 		(at 193.04 101.6 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3799,7 +3794,6 @@
 	(hierarchical_label "B"
 		(shape input)
 		(at 189.23 91.44 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3811,7 +3805,6 @@
 	(hierarchical_label "~{0}"
 		(shape input)
 		(at 194.31 148.59 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3823,7 +3816,6 @@
 	(hierarchical_label "A"
 		(shape input)
 		(at 193.04 111.76 0)
-		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
