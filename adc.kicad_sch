@@ -1101,10 +1101,6 @@
 					(reference "#PWR026")
 					(unit 1)
 				)
-				(path "/7e985ab5-4049-4d72-94c7-921d31b1011c/cdb974c5-a411-4323-b4cc-287c4c078a52"
-					(reference "#PWR032")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -1170,10 +1166,6 @@
 			(project "fpga_board"
 				(path "/7e985ab5-4049-4d72-94c7-921d31b1011c/c44eb6c4-0c79-431d-b3ea-fcb1cd71cbdb"
 					(reference "#PWR023")
-					(unit 1)
-				)
-				(path "/7e985ab5-4049-4d72-94c7-921d31b1011c/cdb974c5-a411-4323-b4cc-287c4c078a52"
-					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -1243,10 +1235,6 @@
 					(reference "#PWR022")
 					(unit 1)
 				)
-				(path "/7e985ab5-4049-4d72-94c7-921d31b1011c/cdb974c5-a411-4323-b4cc-287c4c078a52"
-					(reference "#PWR028")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -1310,10 +1298,6 @@
 			(project "fpga_board"
 				(path "/7e985ab5-4049-4d72-94c7-921d31b1011c/c44eb6c4-0c79-431d-b3ea-fcb1cd71cbdb"
 					(reference "#PWR021")
-					(unit 1)
-				)
-				(path "/7e985ab5-4049-4d72-94c7-921d31b1011c/cdb974c5-a411-4323-b4cc-287c4c078a52"
-					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -1383,10 +1367,6 @@
 					(reference "#PWR025")
 					(unit 1)
 				)
-				(path "/7e985ab5-4049-4d72-94c7-921d31b1011c/cdb974c5-a411-4323-b4cc-287c4c078a52"
-					(reference "#PWR031")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -1416,7 +1396,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x10_P2.54mm_Vertical"
+		(property "Footprint" "Library:CONN-TH_DS1011-20RBSIB7-B"
 			(at 99.06 71.12 0)
 			(effects
 				(font
@@ -1509,10 +1489,6 @@
 					(reference "J4")
 					(unit 1)
 				)
-				(path "/7e985ab5-4049-4d72-94c7-921d31b1011c/cdb974c5-a411-4323-b4cc-287c4c078a52"
-					(reference "J5")
-					(unit 1)
-				)
 			)
 		)
 	)
@@ -1576,10 +1552,6 @@
 			(project "fpga_board"
 				(path "/7e985ab5-4049-4d72-94c7-921d31b1011c/c44eb6c4-0c79-431d-b3ea-fcb1cd71cbdb"
 					(reference "#PWR024")
-					(unit 1)
-				)
-				(path "/7e985ab5-4049-4d72-94c7-921d31b1011c/cdb974c5-a411-4323-b4cc-287c4c078a52"
-					(reference "#PWR030")
 					(unit 1)
 				)
 			)
