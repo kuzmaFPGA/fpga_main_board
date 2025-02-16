@@ -130,7 +130,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x25_P2.54mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "432da633-ffb8-4ddf-ae3a-27a54bd5aef3")
-		(at 167.655 125.06 -90)
+		(at 168.5 117.06 -90)
 		(descr "Through hole angled pin header, 2x25, 2.54mm pitch, 6mm pin length, double rows")
 		(tags "Through hole angled pin header THT 2x25 2.54mm double row")
 		(property "Reference" "J4"
@@ -4475,7 +4475,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "90fbfa84-870e-493e-a054-5a6bbbb15814")
-		(at 170.8 83.06)
+		(at 174.8 83.06)
 		(descr "Through hole straight socket strip, 2x10, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 2x10 2.54mm double row")
 		(property "Reference" "J3"
@@ -4960,7 +4960,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "cc989e84-e758-4f08-baac-580dcfef748e")
-		(at 106.14 83.06)
+		(at 104.8 83.06)
 		(descr "Through hole straight socket strip, 2x10, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 2x10 2.54mm double row")
 		(property "Reference" "J1"
@@ -5445,7 +5445,7 @@
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_2x10_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "e92c5e39-16c6-45ca-a719-61ef51b03cdf")
-		(at 138.47 83.06)
+		(at 139.8 83.06)
 		(descr "Through hole straight socket strip, 2x10, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated")
 		(tags "Through hole socket strip THT 2x10 2.54mm double row")
 		(property "Reference" "J2"
@@ -6961,7 +6961,7 @@
 	)
 	(gr_rect
 		(start 93.9 67.9)
-		(end 178.9 131.9)
+		(end 183.9 131.9)
 		(stroke
 			(width 0.05)
 			(type default)
