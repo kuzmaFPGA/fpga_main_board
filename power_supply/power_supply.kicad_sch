@@ -1680,7 +1680,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Varistor:Bourns_Inc.-MOV-14D471K-MFG"
+		(property "Footprint" "eec:Bourns_Inc.-MOV-14D471K-MFG"
 			(at 127.762 110.49 90)
 			(effects
 				(font
@@ -1863,15 +1863,15 @@
 	(symbol
 		(lib_id "Device:L_Coupled")
 		(at 143.51 110.49 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "2201545f-0dd6-463c-9f1f-1ca6d3f68e58")
 		(property "Reference" "L1"
-			(at 143.129 102.87 0)
+			(at 143.129 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1879,7 +1879,7 @@
 			)
 		)
 		(property "Value" "10mH"
-			(at 143.129 105.41 0)
+			(at 143.129 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1954,7 +1954,7 @@
 			)
 		)
 		(property "Value" "0.22uF 275v"
-			(at 111.76 115.57 0)
+			(at 110.998 101.092 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1962,7 +1962,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
+		(property "Footprint" "B32023B3104K000:CAPRR2250W80L2650T1050H1650"
 			(at 116.5352 113.03 0)
 			(effects
 				(font
@@ -2077,7 +2077,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.50mm"
 			(at 187.96 109.22 0)
 			(effects
 				(font
@@ -2145,7 +2145,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0215_1x02_P3.00mm_Vertical"
+		(property "Footprint" "Connector_TE-Connectivity:TE_826576-2_1x02_P3.96mm_Vertical"
 			(at 88.9 107.95 0)
 			(effects
 				(font
