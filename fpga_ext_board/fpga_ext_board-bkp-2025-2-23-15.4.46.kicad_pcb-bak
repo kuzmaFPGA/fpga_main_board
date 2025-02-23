@@ -1760,7 +1760,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "62e8f07c-5ac1-4798-8c57-7a354230f161")
-  (at 138.700 132.700 0.000)
+  (at 150.300 129.800 0.000)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF4"
@@ -1883,7 +1883,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "904464d8-756a-4020-b6be-2710c9926bc6")
-  (at 138.700 102.700 0.000)
+  (at 150.300 63.100 0.000)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF2"
@@ -2821,7 +2821,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "c5012838-438a-4501-bbb9-7d74749f7eeb")
-  (at 72.000 102.700 0.000)
+  (at 60.300 63.100 0.000)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF1"
@@ -3759,7 +3759,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "ff43c0f1-5390-424d-b2f0-f78c89086b1c")
-  (at 72.000 132.700 0.000)
+  (at 60.300 129.800 0.000)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF3"
@@ -3891,4 +3891,4 @@
 		(uuid "23ded0aa-b797-4832-96c7-75a0a4b56666")
 	)
 )
-   
+  
