@@ -3372,7 +3372,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "62e8f07c-5ac1-4798-8c57-7a354230f161")
-		(at 138.7 132.7)
+		(at 150 145)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF4"
@@ -3720,7 +3720,7 @@
 			(uuid "aa85e79d-01c5-4d2d-9420-8979443a8cf4")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 8.89 360)
+			(at 0 8.89 0)
 			(layer "F.Fab")
 			(uuid "4f68e7af-8db6-4640-9e50-b74e8e81db4a")
 			(effects
@@ -3873,7 +3873,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "904464d8-756a-4020-b6be-2710c9926bc6")
-		(at 138.7 102.7)
+		(at 150 80)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF2"
@@ -4001,7 +4001,7 @@
 	(footprint "Connector_PinHeader_2.54mm:PinHeader_2x17_P2.54mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a6edf5ca-04b1-47e7-ad53-597bc02cd8d3")
-		(at 60.46 79.5)
+		(at 60.46 94.88)
 		(descr "Through hole straight pin header, 2x17, 2.54mm pitch, double rows")
 		(tags "Through hole pin header THT 2x17 2.54mm double row")
 		(property "Reference" "J5"
@@ -6312,7 +6312,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "c5012838-438a-4501-bbb9-7d74749f7eeb")
-		(at 72 102.7)
+		(at 62.5 80)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF1"
@@ -6440,7 +6440,7 @@
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "ff43c0f1-5390-424d-b2f0-f78c89086b1c")
-		(at 72 132.7)
+		(at 62.5 145)
 		(descr "Mounting Hole 3.2mm, no annular, M3")
 		(tags "mounting hole 3.2mm no annular m3")
 		(property "Reference" "REF3"
