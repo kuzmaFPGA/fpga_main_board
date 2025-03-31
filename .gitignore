@@ -3,3 +3,5 @@
 /fpga_board-backups
 *.lck
 *.FCBak
+*.FCBak
+*.zip
